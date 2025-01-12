@@ -309,8 +309,8 @@ import {
       description:
         'My personal portfolio website, showcasing projects, skills, and experience in software engineering.',
       
-      html_url: 'https://github.com/lohitkolluri/Portfolio',
-      homepage: 'https://lohit.is-a.dev',
+      html_url: 'https://github.com/sherlockmoriarity/portfolio',
+      homepage: 'https://portfolio-nine-lake-67.vercel.app/',
       image:"/assets/pr6.png",
       backgroundUrl: "/assets/benefits/card-1.svg",
     },

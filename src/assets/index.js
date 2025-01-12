@@ -4,7 +4,7 @@ import brainwaveSymbol from "./brainwave-symbol.svg";
 import brainwaveWhiteSymbol from "./brainwave-symbol-white.svg";
 import play from "./play.svg";
 import gradient from "./gradient.png";
-
+import pr3 from "././pr3.png"
 import grid from "./grid.png";
 import check2 from "./check-02.svg";
 import loading1 from "./loading-01.svg";
@@ -73,7 +73,7 @@ export {
   brainwaveWhiteSymbol,
   play,
   gradient,
-  
+  pr3,
   grid,
   yourlogo,
   homeSmile,

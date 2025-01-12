@@ -290,8 +290,8 @@ import {
       
       html_url: 'https://github.com/sherlockmoriarity/Password_manager',
       homepage: '',
-      image:"./assets/pr4.png",
-      backgroundUrl: "./src/assets/benefits/card-1.svg",
+      image:"/assets/pr4.png",
+      backgroundUrl: "/assets/benefits/card-1.svg",
     },
     {
       id: 5,

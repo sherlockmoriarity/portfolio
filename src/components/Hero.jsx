@@ -1,7 +1,7 @@
 import { useRef } from "react";
 import Section from "./Section";
 import Button from "./Button";
-import { BackgroundCircles } from "./design/Hero";
+
 import { motion } from "motion/react"
 import { useEffect, useState } from 'react';
 
@@ -76,7 +76,7 @@ const Hero = () => {
              <div className="absolute -top-[54%] left-1/2 w-[234%] -translate-x-1/2 md:-top-[46%] md:w-[138%] lg:-top-[104%]">
              
             </div>
-            <BackgroundCircles />
+            
              </div>
              </motion.div>
              

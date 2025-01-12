@@ -1,4 +1,3 @@
-import pr3 from "../assets/pr3.png";
 
 import {
   

@@ -1,3 +1,4 @@
+import pr3 from "../assets/pr3.png";
 
 import {
   
@@ -300,7 +301,7 @@ import {
       
       html_url: 'https://github.com/sherlockmoriarity/markets',
       homepage: '',
-      image:"./src/assets/pr5.png",
+      image:pr3,
       backgroundUrl: "./src/assets/benefits/card-1.svg",
     },
     {

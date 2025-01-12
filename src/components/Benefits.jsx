@@ -63,9 +63,6 @@ const Benefits = () => {
               }}
               key={item.id}
 
-              whileHover={{ scale: 1.1 }}
-                  whileTap={{ scale: 0.95 }}
-                  onHoverStart={() => console.log('hover started!')}
             >
               <div className="relative z-2 flex flex-col min-h-[22rem] p-[2.4rem] ">
                 <h5 className="h5 mb-5">{item.name}</h5>

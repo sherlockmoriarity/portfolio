@@ -263,7 +263,7 @@ import {
       id: 2,
       name: 'Priority-Based Package Sorting System',
       description:
-        'A predictive model that assigns a priority score to package delivery tasks, improving logistical efficiency.',
+        'Predictive model that assigns a priority score to package delivery tasks, improving logistical efficiency.',
       language: ['PyTorch'],
       html_url: 'https://github.com/sherlockmoriarity/Package-Sorting_and_Management',
       homepage: '',
@@ -274,7 +274,7 @@ import {
       id: 3,
       name: 'Stock News Alert Messenger',
       description:
-        'A high-speed stock monitoring and alert system that provides real-time updates on stock market.',
+        'High-speed stock monitoring and alert system that provides real-time updates on stock market.',
       language: ['Python', "REST API's", 'Twilio API'],
       html_url: 'https://github.com/sherlockmoriarity/Stock_News_Alert_Messaging',
       homepage: '',
@@ -285,7 +285,7 @@ import {
       id: 4,
       name: 'Password_manager',
       description:
-        'A secure password generator with a graphical user interface (GUI) built using Tkinter. It allows users to generate passwords with customizable options and securely stores the generated passwords in an encrypted file.',
+        'Secure password generator, built using Tkinter. It allows users to generate passwords with customizable options and securely stores the generated passwords in an encrypted file.',
       
       html_url: 'https://github.com/sherlockmoriarity/Password_manager',
       homepage: '',

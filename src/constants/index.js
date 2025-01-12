@@ -256,8 +256,8 @@ import {
       language: [' React.js', 'TailwindCSS', 'Three.js', 'GeminiAI', 'Firebase'],
       html_url: 'https://github.com/sherlockmoriarity/travel_app',
       homepage: 'https://travel-app-inky-omega.vercel.app/',
-      image:"./src/assets/pr.png",
-      backgroundUrl: "./src/assets/benefits/card-1.svg",
+      image:"/assets/pr.png",
+      backgroundUrl: "/assets/benefits/card-1.svg",
       
     },
     {
@@ -268,8 +268,8 @@ import {
       language: ['PyTorch'],
       html_url: 'https://github.com/sherlockmoriarity/Package-Sorting_and_Management',
       homepage: '',
-      image:"./src/assets/pr2.png",
-      backgroundUrl: "./src/assets/benefits/card-1.svg",
+      image:"/assets/pr2.png",
+      backgroundUrl: "/assets/benefits/card-1.svg",
     },
     {
       id: 3,
@@ -279,8 +279,8 @@ import {
       language: ['Python', "REST API's", 'Twilio API'],
       html_url: 'https://github.com/sherlockmoriarity/Stock_News_Alert_Messaging',
       homepage: '',
-      image:"./src/assets/pr3.png",
-      backgroundUrl: "./src/assets/benefits/card-1.svg",
+      image:"/assets/pr3.png",
+      backgroundUrl: "/assets/benefits/card-1.svg",
     },
     {
       id: 4,
@@ -301,8 +301,8 @@ import {
       
       html_url: 'https://github.com/sherlockmoriarity/markets',
       homepage: '',
-      image:pr3,
-      backgroundUrl: "./src/assets/benefits/card-1.svg",
+      image:"/assets/pr5.png",
+      backgroundUrl: "/assets/benefits/card-1.svg",
     },
     {
       id: 6,
@@ -312,8 +312,8 @@ import {
       
       html_url: 'https://github.com/lohitkolluri/Portfolio',
       homepage: 'https://lohit.is-a.dev',
-      image:"./src/assets/pr6.png",
-      backgroundUrl: "./src/assets/benefits/card-1.svg",
+      image:"/assets/pr6.png",
+      backgroundUrl: "/assets/benefits/card-1.svg",
     },
     // Add more repository objects as needed
   ];

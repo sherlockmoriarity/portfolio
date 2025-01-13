@@ -296,7 +296,7 @@ import {
       id: 5,
       name: 'Global Markets Dashboard',
       description:
-        'An Interactive dashboard that analyzes and visualizes major global stock indices, including the S&P 500, BSE, SSE, and FTSE,',
+        'An Interactive dashboard that analyzes and visualizes major global stock indices, including the S&P 500, BSE, SSE, and FTSE.',
       
       html_url: 'https://github.com/sherlockmoriarity/markets',
       homepage: '',

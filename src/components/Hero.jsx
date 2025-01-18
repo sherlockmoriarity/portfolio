@@ -60,7 +60,7 @@ const Hero = () => {
             className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
             With a strong interest in AI/ML, web development, and DevOps, I enjoy exploring innovative ideas and building practical, scalable solutions that make a real difference.
             </motion.p>
-            <Button  href="https://drive.google.com/file/d/1OmjqiTjv9otpB52ZI7XIft3UWdrW751m/view?usp=drive_link" white>
+            <Button  href="https://drive.google.com/file/d/1RV88stxJjyXPFj9cywG7sWCXgwI8WsOH/view?usp=drive_link" white>
                Resume
             </Button>
             </motion.div>
